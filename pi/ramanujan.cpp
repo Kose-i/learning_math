@@ -1,13 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-long factoria(int a)
-{
-  long ans = 1;
-  for (int i = 0;i <= a;++i) ans*= i;
-  return ans;
-}
-
 double get_pi()
 {
   double my_pi = 0;
