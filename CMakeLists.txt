@@ -3,4 +3,4 @@ project(learning_math)
 
 #set(${file} src/*.cpp)
 
-add_executable(prime_ramanujan src/pi/ramanujan.cpp)
+add_executable(pi_ramanujan src/pi/ramanujan.cpp)
