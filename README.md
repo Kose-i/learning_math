@@ -4,6 +4,8 @@
 
 [数値計算]()
 
+[NUMERICAL RECIPE FOR C](https://www.amazon.co.jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%AB%E3%83%AC%E3%82%B7%E3%83%94%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%BC-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E2%80%95C%E8%A8%80%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8B%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97%E3%81%AE%E3%83%AC%E3%82%B7%E3%83%94-William-H-Press/dp/4874085601)
+
 ## 参考
 
 [ラマヌジャン]:(http://ramanujan.sirinudi.org/index.html)
