@@ -64,6 +64,9 @@ std::vector<double> four1(std::vector<std::complex<double>>& data_complex, int i
   return Fourier_transform;
 }
 
+std::vector<std::complex<double>> invert_FFT(const std::vector<double>& t, const int& a) {
+}
+
 int main(int argc, char** argv) {
   std::vector<std::complex<double>> sampling_data{
     std::complex<double>(2.2, 1.1),
@@ -83,8 +86,6 @@ int main(int argc, char** argv) {
     std::cout << ' ' << e;
   }
   std::cout << '\n';
-
-  exit(1); //TODO
 
   four1(sampling_data, -1);//Inverter Fourier Transform
 
