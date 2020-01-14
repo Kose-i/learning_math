@@ -76,3 +76,5 @@
 [](https://mathtrain.jp/)
 
 [](https://mathtrain.jp/brahmagupta)
+
+[アンドレの定理](https://mathtrain.jp/tansecnumber)
